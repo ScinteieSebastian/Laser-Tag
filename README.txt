@@ -1,6 +1,6 @@
 -------------------------------README-----------------------------------
 
-	Pentru implementarea temei 2 am folosit structurile:
+	Pentru implementarea proiectului Laser-Tag am folosit structurile:
 --> Structura player : defineste un jucator , contine caracteristicile necesare pentru a putea cele 3 top -uri si scorul final. In structura player shoots reprezinta totalul de puncte obtinut prin impuscaturi de un jucator, vectorul pozitie salveaza senzorii prin care trece jucatorul, alive este 0 daca e mort si 1 daca este inca in viata.
 
 --> Structura matrix care are doua elemente nume si puncte, a fost folosita pentru salvarea unor tipuri de date si ordonare
